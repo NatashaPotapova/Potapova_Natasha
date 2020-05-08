@@ -1,0 +1,10 @@
+C:\Users\Natasha\source\repos\Otvet_na_eczamen\Otvet_na_eczamen\bin\Debug\Otvet_na_eczamen.exe.config
+C:\Users\Natasha\source\repos\Otvet_na_eczamen\Otvet_na_eczamen\bin\Debug\Otvet_na_eczamen.exe
+C:\Users\Natasha\source\repos\Otvet_na_eczamen\Otvet_na_eczamen\bin\Debug\Otvet_na_eczamen.pdb
+C:\Users\Natasha\source\repos\Otvet_na_eczamen\Otvet_na_eczamen\obj\Debug\Otvet_na_eczamen.csprojAssemblyReference.cache
+C:\Users\Natasha\source\repos\Otvet_na_eczamen\Otvet_na_eczamen\obj\Debug\Otvet_na_eczamen.Form1.resources
+C:\Users\Natasha\source\repos\Otvet_na_eczamen\Otvet_na_eczamen\obj\Debug\Otvet_na_eczamen.Properties.Resources.resources
+C:\Users\Natasha\source\repos\Otvet_na_eczamen\Otvet_na_eczamen\obj\Debug\Otvet_na_eczamen.csproj.GenerateResource.cache
+C:\Users\Natasha\source\repos\Otvet_na_eczamen\Otvet_na_eczamen\obj\Debug\Otvet_na_eczamen.csproj.CoreCompileInputs.cache
+C:\Users\Natasha\source\repos\Otvet_na_eczamen\Otvet_na_eczamen\obj\Debug\Otvet_na_eczamen.exe
+C:\Users\Natasha\source\repos\Otvet_na_eczamen\Otvet_na_eczamen\obj\Debug\Otvet_na_eczamen.pdb
