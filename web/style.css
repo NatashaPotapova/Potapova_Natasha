@@ -1,0 +1,36 @@
+h1 {
+font-family: 'Monotype Corsiva';
+font-size: 24pt;
+text-align: center;
+color: #000000;
+width: 20%;
+margin-left: 40%;
+}
+
+body {
+background: url('./fon1.jpg');
+background-position: center;
+background-size: 100%;
+}
+
+.text {
+font-size: 36px;
+margin-left: 50px;
+float: left;
+width: 420px;
+height: 350px;
+border: 2px solid #0000FF;
+background-color: #FFFF00;
+}
+
+.pic {
+width: 30%;
+float: left;
+}
+
+img {
+margin-left: 200px;
+margin-top: 10px;
+width: 420px;
+height: 350px;
+}

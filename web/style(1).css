@@ -1,0 +1,37 @@
+h1 {
+font-family: 'Arial';
+font-size: 24px;
+text-align: center;
+color: Black;
+width: 20%;
+margin-left: 40%;
+}
+
+body {
+background: url('./fon2.jpg');
+-o-background-size: 100%;
+background-size: 100%;
+}
+
+.text {
+margin-left: 10px;
+font-size: 36px;
+float: right;
+width: 420px;
+height: 350px;
+border: 3px double blue;
+background-color: yellow;
+}
+
+.pic {
+width: 30%;
+float: left;
+}
+
+img {
+position: absolute;
+margin-left: 150px;
+margin-top: 0px;
+width: 420px;
+height: 350px;
+}
